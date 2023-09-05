@@ -26,7 +26,7 @@ const Navbar = () => {
             <div className="navbar-end">
                 <div className="avatar">
                     <div className="w-8 rounded-full rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
-                        <img src="/src/assets/images/icon.ico" />
+                        <img src="https://darling-stroopwafel-f1a2b3.netlify.app/src/assets/images/icon.ico" />
                     </div>
                 </div>
             </div>
