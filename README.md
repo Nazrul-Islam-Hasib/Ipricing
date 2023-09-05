@@ -9,7 +9,7 @@ On the home page, you can see different pricing tiers. Users can switch between 
 ### `Live site`
 
 You can click the link to see the live project.\
-Open [https:darling-stroopwafel-f1a2b3.netlify.app/](darling-stroopwafel-f1a2b3.netlify.app/) to view it in the browser.
+Open [https://darling-stroopwafel-f1a2b3.netlify.app/](https://darling-stroopwafel-f1a2b3.netlify.app/) to view it in the browser.
 
 # React + Vite
 
