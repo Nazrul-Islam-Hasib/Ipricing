@@ -1,4 +1,4 @@
-# Doctors Portal
+# Interactive Pricing
 
 This project was done via React, TailwindCss, and DaisiUI. The project is deployed in Netlify 
 
