@@ -1,0 +1,20 @@
+
+.pricing-card {
+    transition: all .5s ease;
+}
+.pricing-card:hover {
+    transform: translateY(-8px);
+}
+
+
+.animate-card {
+    transform: translateY(-8px);
+}
+
+.yearly-card .card-head{
+    background-image: linear-gradient(293deg, #06b6d4 0%, #3b82f6 100%);
+}
+
+.monthly-card .card-head{
+    background-image: linear-gradient(293deg,#3b82f6 0%, #06b6d4 100%);
+}
